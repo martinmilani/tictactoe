@@ -1,5 +1,6 @@
-#Live Version
-[TicTacToe] (https://tictactoe-455c7.web.app/)
+# Live Version
+
+[TicTacToe](https://tictactoe-455c7.web.app/)
 
 # Tictactoe
 
